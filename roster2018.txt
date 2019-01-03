@@ -1,0 +1,76 @@
+*
+Alex Ovechkin
+Left Wing
+*
+Braden Holtby
+Goalie
+*
+Nicklas Backstrom
+Center
+*
+Brett Connolly
+Right Wing
+*
+John Carlson
+Defense
+*
+Dmitry Orlov
+Defense
+*
+Travis Boyd
+Center
+*
+Andre Burakovsky
+Left Wing
+*
+Nic Dowd
+Center
+*
+Lars Eller
+Center
+*
+Dmitrij Jaskin
+Right Wing
+*
+Evgeny Kuznetsov
+Center
+*
+T.J. Oshie
+Right Wing
+*
+Devante Smith-Pelly
+Right Wing
+*
+Chandler Stephenson
+Center
+*
+Jakub Vrana
+Left Wing
+*
+Tom Wilson
+Right Wing
+*
+Madison Bowey
+Defense
+*
+Christian Djoos
+Defense
+*
+Michal Kempny
+Defense
+*
+Tyler Lewington
+Defense
+*
+Matt Niskanen
+Defense
+*
+Brooks Orpik
+Defense
+*
+Jonas Siegenthaler
+Defense
+*
+Pheonix Copley
+Goalie
+*
