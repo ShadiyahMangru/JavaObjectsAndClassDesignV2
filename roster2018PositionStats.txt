@@ -1,0 +1,201 @@
+*
+    Alex Ovechkin
+Left Wing    
+Jersey:8
+Last Updated:01/07/2019
+Games Played:41
+Points:47
+Shots:164
+*
+Braden Holtby
+Goalie
+Jersey:72
+Last Updated:01/07/2019
+Games Played:29
+Wins:16
+Saves: 824
+*
+Nicklas Backstrom
+Center
+Jersey:19
+Last Updated:01/07/2019
+Games Played:41
+Points:44
+Shots:80
+*
+Brett Connolly
+Right Wing
+Jersey:  10
+Last Updated:01/07/2019
+Games Played:  41
+Points:24
+Shots:70
+*
+John Carlson
+Defense
+Jersey:74
+Last Updated:01/07/2019
+Games Played:40  
+Points:39
+Shots:96
+*
+Dmitry Orlov
+Defense
+Jersey:9
+Last Updated:01/07/2019
+Games Played:41
+Points:12
+Shots:48
+*
+Travis Boyd
+Center
+Jersey:72
+Last Updated:01/07/2019
+Games Played:22
+Points:11
+Shots:16
+*
+Andre Burakovsky
+Left Wing
+Jersey:65
+Last Updated:01/07/2019
+Games Played:37
+Points:9
+Shots:48
+*
+Nic Dowd
+Center
+Jersey:26
+Last Updated:01/07/2019
+Games Played:33
+Points:13
+Shots:21
+*
+Lars Eller
+Center
+Jersey:20
+Last Updated:01/07/2019
+Games Played:41
+Points:18
+Shots:84
+*
+Dmitrij Jaskin
+Right Wing
+Jersey:23
+Last Updated:01/07/2019
+Games Played:27
+Points:7
+Shots:30
+*
+Evgeny Kuznetsov
+Center
+Jersey:92
+Last Updated:01/07/2019
+Games Played:35
+Points:36
+Shots:98
+*
+T.J. Oshie
+Right Wing
+Jersey:77
+Last Updated:01/07/2019
+Games Played:30
+Points:16
+Shots:64
+*
+Devante Smith-Pelly
+Right Wing
+Jersey:25
+Last Updated:01/07/2019
+Games Played:39
+Points:8
+Shots:41
+*
+Chandler Stephenson
+Center
+Jersey:18
+Last Updated:01/07/2019
+Games Played:39
+Points:9
+Shots:25
+*
+Jakub Vrana
+Left Wing
+Jersey:13
+Last Updated:01/07/2019
+Games Played:41
+Points:21
+Shots:81
+*
+Tom Wilson
+Right Wing
+Jersey:43
+Last Updated:01/07/2019
+Games Played:22
+Points:20
+Shots:53
+*
+Madison Bowey
+Defense
+Jersey:22
+Last Updated:01/07/2019
+Games Played:29
+Points:6
+Shots:29
+*
+Christian Djoos
+Defense
+Jersey:29
+Last Updated:01/07/2019
+Games Played:28
+Points:4
+Shots:18
+*
+Michal Kempny
+Defense
+Jersey:6
+Last Updated:01/07/2019
+Games Played:38
+Points:15
+Shots:60
+*
+Tyler Lewington
+Defense
+Jersey:78
+Last Updated:01/07/2019
+Games Played:2
+Points:2
+Shots:3
+*
+Matt Niskanen
+Defense
+Jersey:2
+Last Updated:01/07/2019
+Games Played:39
+Points:16
+Shots:68
+*
+Brooks Orpik
+Defense
+Jersey:44
+Last Updated:01/07/2019
+Games Played:14
+Points:3
+Shots:15
+*
+Jonas Siegenthaler
+Defense
+Jersey:34
+Last Updated:01/07/2019
+Games Played:15
+Points:3
+Shots:6
+*
+Pheonix Copley
+Goalie
+Jersey:1
+Last Updated:01/07/2019
+Games Played:14
+Wins:9
+Saves:368
+*
